@@ -16,8 +16,6 @@ class Solution:
         return anagrams
 
 
-print(Solution().groupAnagrams(["act","pots","tops","cat","stop","hat"]))
-
 
 
 
